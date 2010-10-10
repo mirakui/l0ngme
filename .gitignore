@@ -5,3 +5,4 @@ tmp/**/*
 *.swp
 vendor/bundle
 vendor/cache
+public/stylesheets

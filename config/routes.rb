@@ -1,4 +1,6 @@
 L0ngme::Application.routes.draw do
+  root :to => "misc#top"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
